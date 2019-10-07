@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Joao Marques-Silva</title>
+    <title>News on Joao Marques-Silva</title>
     <link>/post/</link>
-    <description>Recent content in Posts on Joao Marques-Silva</description>
+    <description>Recent content in News on Joao Marques-Silva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Oct 2019 00:24:55 +0100</lastBuildDate>
@@ -17,7 +17,7 @@
       <pubDate>Tue, 08 Oct 2019 00:24:55 +0100</pubDate>
       
       <guid>/post/posts/</guid>
-      <description>I am looking for post-doctoral researchers and PhD students to work on applying automated reasoning in explaiining and verifying machine learning models. More information available from here.</description>
+      <description>ANITI&amp;rsquo;s Research Chair on Deep Learner Explanation and Verification is looking for post-doctoral researchers and PhD students to work on applying automated reasoning in explaining and verifying machine learning models. More information available from here.</description>
     </item>
     
   </channel>
