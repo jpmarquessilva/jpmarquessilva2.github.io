@@ -2,7 +2,7 @@
 # Joao Marques-Silva
 (This website is under construction.)
 
-I am currently affiliated with [ANITI](https://aniti.univ-toulouse.fr/), Toulouse, France.
+I am currently Research Chair of [ANITI](https://aniti.univ-toulouse.fr/), Toulouse, France.
 
 Additional pointers:
   * [DBLP profile](https://dblp.uni-trier.de/pers/hd/m/Marques=Silva:Joao)
