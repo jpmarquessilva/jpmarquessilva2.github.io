@@ -1,8 +1,6 @@
 <!-- # jpmarquessilva.github.io -->
-
 # Joao Marques-Silva
-
-This website is under construction. 
+(This website is under construction.)
 
 I am currently affiliated with [ANITI](https://aniti.univ-toulouse.fr/), Toulouse, France.
 
