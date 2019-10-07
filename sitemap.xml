@@ -2,6 +2,24 @@
   
     <url>
     
+      <loc>/</loc>
+      <lastmod>2019-10-08T00:24:55+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/post/</loc>
+      <lastmod>2019-10-08T00:24:55+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/post/posts/</loc>
+      <lastmod>2019-10-08T00:24:55+01:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>/author/admin/</loc>
     </url>
   
@@ -18,16 +36,6 @@
     <url>
     
       <loc>/categories/</loc>
-    </url>
-  
-    <url>
-    
-      <loc>/</loc>
-    </url>
-  
-    <url>
-    
-      <loc>/post/</loc>
     </url>
   
     <url>
