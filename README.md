@@ -1,4 +1,3 @@
-<!-- # jpmarquessilva.github.io -->
 # Joao Marques-Silva
 (This website is under construction.)
 
