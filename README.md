@@ -12,5 +12,4 @@ Additional pointers:
   * [Research ID](https://publons.com/researcher/2856895/joao-marques-silva/) [NOTE: extremely incomplete for CS researchers]
 
 Contact emails:
-  * ![Professional email](jpmarquessilva.github.io/emailprof.png)
-  * ![Personal email](jpmarquessilva.github.io/emailpers.png)
+![Emails](jpmarquessilva.github.io/emails.png)
