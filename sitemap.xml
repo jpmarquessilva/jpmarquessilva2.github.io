@@ -1,61 +1,45 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2019-10-08T00:24:55+01:00</lastmod>
-    </url>
+  <url>
+    <loc>/authors/</loc>
+  </url>
   
-    <url>
-    
-      <loc>/post/</loc>
-      <lastmod>2019-10-08T00:24:55+01:00</lastmod>
-    </url>
+  <url>
+    <loc>/categories/</loc>
+  </url>
   
-    <url>
-    
-      <loc>/post/posts/</loc>
-      <lastmod>2019-10-08T00:24:55+01:00</lastmod>
-    </url>
+  <url>
+    <loc>/</loc>
+  </url>
   
-    <url>
-    
-      <loc>/author/admin/</loc>
-    </url>
+  <url>
+    <loc>/author/joao-marques-silva/</loc>
+  </url>
   
-    <url>
-    
-      <loc>/authors/</loc>
-    </url>
+  <url>
+    <loc>/author/nelson-bighetti/</loc>
+  </url>
   
-    <url>
-    
-      <loc>/author/</loc>
-    </url>
+  <url>
+    <loc>/post/</loc>
+  </url>
   
-    <url>
-    
-      <loc>/categories/</loc>
-    </url>
+  <url>
+    <loc>/publication_types/</loc>
+  </url>
   
-    <url>
-    
-      <loc>/publication_types/</loc>
-    </url>
+  <url>
+    <loc>/publication/</loc>
+  </url>
   
-    <url>
-    
-      <loc>/publication/</loc>
-    </url>
+  <url>
+    <loc>/talk/</loc>
+  </url>
   
-    <url>
-    
-      <loc>/talk/</loc>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/</loc>
-    </url>
+  <url>
+    <loc>/tags/</loc>
+  </url>
   
 </urlset>

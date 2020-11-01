@@ -1,57 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Joao Marques-Silva on Joao Marques-Silva</title>
+    <title>Joao Marques-Silva</title>
     <link>/</link>
-    <description>Recent content in Joao Marques-Silva on Joao Marques-Silva</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 08 Oct 2019 00:24:55 +0100</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>News</title>
-      <link>/post/</link>
-      <pubDate>Tue, 08 Oct 2019 00:24:55 +0100</pubDate>
-      
-      <guid>/post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid></guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Authors</title>
-      <link>/author/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/author/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>/publication/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>/talk/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/</guid>
-      <description></description>
-    </item>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joao Marques-Silva</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Joao Marques-Silva</title>
+      <link>/</link>
+    </image>
     
   </channel>
 </rss>
